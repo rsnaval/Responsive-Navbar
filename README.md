@@ -15,5 +15,5 @@ This navbar design is perfect for:
 ✔ Clean & Professional UI
 ✔ Only HTML & CSS (No JS)
 
-📌 Source Code: (Add your link here)
+📌 Source Code: https://github.com/rsnaval/Responsive-Navbar
 📌 Live Demo: (Optional)
